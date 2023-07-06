@@ -1,4 +1,4 @@
-package com.sbs.java.exam;
+package com.sbs.java.exam.util;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
