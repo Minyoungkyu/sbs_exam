@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f67840b-d487-4ede-9110-4c38c03c2730" name="Changes" comment="" />
+    <list default="true" id="0f67840b-d487-4ede-9110-4c38c03c2730" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/sbs/java/exam/controller/ArticleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sbs/java/exam/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sbs/java/exam/controller/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sbs/java/exam/controller/MenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sbs/java/exam/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sbs/java/exam/App.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +28,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2S9JdpZN9TUC9Gjx9Fi5BuODFQJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
